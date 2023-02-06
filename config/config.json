@@ -1,0 +1,36 @@
+{
+  "site": {
+    "title": "WebGennie || Web Development",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "100",
+    "logo_height": "10",
+    "logo_text": "WebGennie Solutions"
+  },
+
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "blog_folder": "blogs"
+  },
+
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/contact"
+  },
+
+  "params": {
+    "contact_form_action": "https://formspree.io/f/mbjedeee",
+    "tag_manager_id": "",
+    "footer_content": "Design is not just what it looks like and feels like. Design is how it works. - Steve Jobs",
+    "copyright": "Designed and Developed By [Team WebGennie](https://webgennie.com/)"
+  },
+
+  "metadata": {
+    "meta_author": "WebGennie Solutions",
+    "meta_image": "",
+    "meta_description": "A website made by WebGennie Solutions"
+  }
+}
